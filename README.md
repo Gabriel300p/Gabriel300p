@@ -17,12 +17,15 @@
 <h3>Overview:</h3>
 <div align="center">
   <a href="https://github.com/Gabriel300p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel300p&layout=compact&langs_count=7&theme=react"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&theme=react" alt="gabriel300p" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel300p&layout=compact&langs_count=7&theme=react"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&theme=react" alt="gabriel300p" />
 </div>
   
+    
+  
 <br>
-<p align="center"> 
+<div align="center"> 
+<p> 
   <!-- JavaScript -->
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -73,6 +76,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
  </p>
+ </div>
  
  <h3>Connect with me:</h3>
  
