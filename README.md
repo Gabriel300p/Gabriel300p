@@ -16,9 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/Gabriel300p">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel300p" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel300p" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel300p&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&theme=dark" alt="gabriel300p" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&theme=dark" alt="gabriel300p" />
 </div>
 
 
