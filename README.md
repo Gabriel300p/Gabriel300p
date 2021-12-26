@@ -13,6 +13,15 @@
 
 - ⚡ Fun fact **Love 🏀Basketball and 🎥Movies.**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact" alt="gabriel300p" /></p>
+<div align="center">
+  <a href="https://github.com/Gabriel300p">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel300p&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&&theme=dracula" alt="gabriel300p" /></p>
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabriel3ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriel3ap" height="30" width="40" /></a>
@@ -81,9 +90,3 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact" alt="gabriel300p" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel300p&show_icons=true&locale=en" alt="gabriel300p" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&" alt="gabriel300p" /></p>
