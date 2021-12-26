@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Gabriel</h1>
-<h3 align="center">A person who is on an adventure in the world of software development straight from Guarulhos, SP.</h3>
+<h3 align="center">A person who is on an adventure in the world of software development</h3>
 
 - 🔭 I’m currently working on **Acesso Energia**
 
