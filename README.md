@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,My name is Gabriel</h1>
 <h3 align="center">A person who is on an adventure in the world of software development straight from Guarulhos, SP.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel300p&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel300p" /> </p>
-
 - 🔭 I’m currently working on **Acesso Energia**
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, MySQL and Python**
