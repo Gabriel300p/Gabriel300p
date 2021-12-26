@@ -13,11 +13,12 @@
 
 - ⚡ Fun fact **Love 🏀Basketball and 🎥Movies.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact" alt="gabriel300p" /></p>
+
 <div align="center">
   <a href="https://github.com/Gabriel300p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel300p&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&&theme=dracula" alt="gabriel300p" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel300p&show_icons=true&locale=en&layout=compact&theme=darl" alt="gabriel300p" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel300p&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel300p&theme=dark" alt="gabriel300p" />
 </div>
 
 
