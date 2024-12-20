@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Acesso Energia**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, MySQL and Python**
+- 🌱 I’m currently learning **Advanced Typescript, ReactJS, AngularJS and NodeJS**
 
 - 👯 I’m looking to collaborate on **Mostely Frontend Development**
 
 - 📫 How to reach me **gabriel.andrade200p@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel300p/](https://www.linkedin.com/in/gabriel300p/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel300p/](https://www.linkedin.com/in/gabrieltech/)
 
 - ⚡ Fun fact **Love 🏀Basketball and 🎥Movies.**
 
