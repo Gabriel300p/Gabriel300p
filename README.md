@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Mostely Frontend Development**
 
-- 📫 How to reach me **gabriel.andrade200p@gmail.com**
+- 📫 How to reach me **gabrielandrade.tech@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel300p/](https://www.linkedin.com/in/gabrieltech/)
 
