@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gabrielandrade.tech@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel300p/](https://www.linkedin.com/in/gabrieltech/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gabrieltech/](https://www.linkedin.com/in/gabrieltech/)
 
 - ⚡ Fun fact **Love 🏀Basketball and 🎥Movies.**
 
